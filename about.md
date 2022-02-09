@@ -4,7 +4,7 @@ title:     About
 permalink: /about/
 ---
 
-Vida is a minimalist jekyll theme.
+pan tau is a sounddesigner.
 
 - Author: Alex Sun
 - Email:  syaningv@gmail.com
